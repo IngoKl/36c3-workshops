@@ -1,3 +1,4 @@
+# This is a very simple environment.yml for Anaconda without fixed versions.
 name: 36c3
 channels:
   - conda-forge
@@ -11,10 +12,7 @@ dependencies:
   - python=3.7
   - setuptools
   - sqlite
-  - vc
-  - vs2015_runtime
   - wheel
-  - wincertstore
   - pip:
     - en-core-web-sm
 
