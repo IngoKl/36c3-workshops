@@ -9,8 +9,10 @@ The *Juypter Notebooks* can be run/used interactively via [Binder](https://mybin
 ## Running Locally
 If you have [Anaconda](https://www.anaconda.com), you can simply run the following three commands in order to get started:
 
-`conda env create -f environment.yml`
-`conda activate 36c3`
-`jupyter notebook`
+```
+conda env create -f environment.yml
+conda activate 36c3
+jupyter notebook
+```
 
 *This will create a new conda (Python) environment called **36c3**.*

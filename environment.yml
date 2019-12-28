@@ -14,6 +14,10 @@ dependencies:
   - spacy-model-en_core_web_sm
   - sqlite
   - wheel
+  - scikit-learn
+  - gensim
+  - pandas
+  - matplotlib
   - pip:
     - en-core-web-sm
 
