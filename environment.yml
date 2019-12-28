@@ -6,11 +6,12 @@ channels:
 dependencies:
   - ca-certificates
   - certifi
+  - jupyter
   - openssl
-  - spacy-model-en_core_web_sm
   - pip
   - python=3.7
   - setuptools
+  - spacy-model-en_core_web_sm
   - sqlite
   - wheel
   - pip:
